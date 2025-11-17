@@ -17,10 +17,10 @@ The magnitude spectrum shows the frequency of the two constituent sine waves
 __________  
 
 
-A time vector od 10 seconds is created  
-A composite sine wave consiting of 2 frequencies is generated  
+A time vector of 10 seconds is created  
+A composite sine wave consisting of 2 frequencies is generated  
 The symmetrical frequencies are visible at 15, 40, 60 and 85  
-he phase shit plot shows how each frequency component is shifted in time
+The phase shift plot shows how each frequency component is shifted in time
 ### 4.8
 <img width="1766" height="1174" alt="Screenshot 2025-09-24 at 15 26 23" src="https://github.com/user-attachments/assets/cfb7c50e-4c10-4fa9-91a8-5e4a2bd3fc11" />   
 
